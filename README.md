@@ -3,7 +3,7 @@ Cette commande, écrite en Pascal (Turbo Pascal ou Free Pacsal), permet de compi
 
 <h3>Syntaxe</h3>
 
-ASM86 [source[.A86] [destination[.H86]]] [/C] [/INLINE|/TP]
+<b>ASM86</b> [source[.A86] [destination[.H86]]] [/C] [/INLINE|/TP]
 
 <h3>Paramètres</h3>
 
@@ -37,6 +37,21 @@ ASM86 [source[.A86] [destination[.H86]]] [/C] [/INLINE|/TP]
     <td>Sortie en instruction INLINE du Turbo Pascal.</td>
   </tr>
 </table>
+
+<h2>Quoi de neuf</h2>
+
+<h4>Version 1.0.1</h4>
+<ul>
+  <li>Ajout d'un paramètre "--version"</li>
+  <li>Support les nombres hexadécimal se terminant par 'h' et non seulement commençant par $.</li>
+  <li>Ajout du support de l'anglais</li>
+</ul>
+
+
+<h4>Version 1.0.0</h4>
+<ul>
+  <li>Première version/li>
+</ul>
 
 <h3>Exemple</h3>
 
