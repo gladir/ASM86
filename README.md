@@ -38,7 +38,7 @@ ASM86 [source[.A86] [destination[.H86]]] [/C] [/INLINE|/TP]
   </tr>
 </table>
 
-Exemple
+<h3>Exemple</h3>
 
 L'exemple suivant permet de compiler le programme assembleur de démonstration et générer un binaire :
 
