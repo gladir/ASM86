@@ -37,3 +37,11 @@ ASM86 [source[.A86] [destination[.H86]]] [/C] [/INLINE|/TP]
     <td>Sortie en instruction INLINE du Turbo Pascal.</td>
   </tr>
 </table>
+
+<h3>Exemple</h3>
+
+L'exemple suivant permet de compiler le programme assembleur de démonstration et générer un binaire :
+
+<pre>
+<b>asm86</b> samples\EXITEXE.A86 /B
+</pre>
