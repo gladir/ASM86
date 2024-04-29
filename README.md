@@ -42,4 +42,6 @@ Exemple
 
 L'exemple suivant permet de compiler le programme assembleur de démonstration et générer un binaire :
 
-  asm86 samples\EXITEXE.A86 /B
+<pre>
+<b>asm86</b> samples\EXITEXE.A86 /B
+</pre>
