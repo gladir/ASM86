@@ -36,6 +36,10 @@ Cette commande, écrite en Pascal (Turbo Pascal ou Free Pacsal), permet de compi
     <td><b>/TP</b></td>
     <td>Sortie en instruction INLINE du Turbo Pascal.</td>
   </tr>
+  <tr>
+    <td><b>--version</b></td>
+    <td>Indique la version de la commande</td>
+  </tr>
 </table>
 
 <h2>Quoi de neuf</h2>
