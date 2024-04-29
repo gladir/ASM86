@@ -50,7 +50,7 @@ Cette commande, écrite en Pascal (Turbo Pascal ou Free Pacsal), permet de compi
 
 <h4>Version 1.0.0</h4>
 <ul>
-  <li>Première version/li>
+  <li>Première version</li>
 </ul>
 
 <h3>Exemple</h3>
