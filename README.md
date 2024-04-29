@@ -1,5 +1,5 @@
 # ASM86
-Cette commande, écrite en Pascal (Turbo Pascal ou Free Pacsal), permet de compiler de l'assembleur 8086.
+Cette commande, écrite en Pascal (Turbo Pascal ou Free Pascal), permet de compiler de l'assembleur 8086.
 
 <h3>Syntaxe</h3>
 
